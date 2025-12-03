@@ -14,10 +14,12 @@ import androidx.navigation.compose.rememberNavController
 import com.example.uii_t8_demo_de_prototipo_funcional.ui.navigation.AppNavigation
 import com.example.uii_t8_demo_de_prototipo_funcional.ui.theme.UII_T8_Demo_de_prototipo_funcionalTheme
 import com.example.uii_t8_demo_de_prototipo_funcional.viewmodel.MainViewModel
+import com.example.uii_t8_demo_de_prototipo_funcional.remote.RetrofitClient
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        RetrofitClient.init(applicationContext)
         enableEdgeToEdge()
         setContent {
             UII_T8_Demo_de_prototipo_funcionalTheme {

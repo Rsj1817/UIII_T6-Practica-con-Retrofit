@@ -90,6 +90,7 @@ fun HomeScreen(
                 modifier = Modifier.padding(bottom = 16.dp)
             )
 
+
             if (filteredItems.isEmpty()) {
                 Box(
                     modifier = Modifier.fillMaxSize(),
