@@ -1,0 +1,4 @@
+ID: 3 | Nombre: Lombriz | Descripción: Raza: Caiman | Género: Hembra | Edad: 5 años | Categoría: Gato | Imagen: 
+ID: 4 | Nombre: Domi | Descripción: Raza: Schanniuzer | Género: Macho | Edad: 5 años | Categoría: Perro | Imagen: 
+ID: 6 | Nombre: chilaquilo | Descripción: Raza: Chihuahua | Género: Macho | Edad: 5 años | Categoría: Perro | Imagen: 
+ID: 7 | Nombre: Anuel  | Descripción: Raza: Mariposa  | Género: Hembra | Edad: 9 años | Categoría: Reptil | Imagen: 
